@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-29T08:04:11.000Z</updated>
+  <updated>2017-10-08T13:15:41.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,19 +16,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>post1</title>
-    <link href="http://yoursite.com/2017/08/29/post1/"/>
-    <id>http://yoursite.com/2017/08/29/post1/</id>
-    <published>2017-08-29T08:03:00.000Z</published>
-    <updated>2017-08-29T08:04:11.000Z</updated>
+    <title>중독</title>
+    <link href="http://yoursite.com/2017/10/08/addictions/"/>
+    <id>http://yoursite.com/2017/10/08/addictions/</id>
+    <published>2017-10-08T12:59:45.000Z</published>
+    <updated>2017-10-08T13:15:41.000Z</updated>
     
-    <content type="html"><![CDATA[<p>This is my new post (using Hexo)</p>
-]]></content>
+    <content type="html"><![CDATA[<h4 id="5-point-guide-to-the-cycle-of-addiction"><a href="#5-point-guide-to-the-cycle-of-addiction" class="headerlink" title="5-point guide to the cycle of addiction"></a>5-point guide to the cycle of addiction</h4><ol>
+<li>Pain</li>
+<li>Using an addictive agent, like alcohol, food, sex, work, dependent relationships to soothe and distract</li>
+<li>Temporary anaesthesia or distraction</li>
+<li>Consequences</li>
+<li>Shame and guilt, leading to pain or low self-esteem</li>
+</ol>
+<a id="more"></a>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;This is my new post (using Hexo)&lt;/p&gt;
-
+      &lt;h4 id=&quot;5-point-guide-to-the-cycle-of-addiction&quot;&gt;&lt;a href=&quot;#5-point-guide-to-the-cycle-of-addiction&quot; class=&quot;headerlink&quot; title=&quot;5-point guide to the cycle of addiction&quot;&gt;&lt;/a&gt;5-point guide to the cycle of addiction&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Pain&lt;/li&gt;
+&lt;li&gt;Using an addictive agent, like alcohol, food, sex, work, dependent relationships to soothe and distract&lt;/li&gt;
+&lt;li&gt;Temporary anaesthesia or distraction&lt;/li&gt;
+&lt;li&gt;Consequences&lt;/li&gt;
+&lt;li&gt;Shame and guilt, leading to pain or low self-esteem&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
@@ -36,26 +47,94 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/08/29/hello-world/"/>
-    <id>http://yoursite.com/2017/08/29/hello-world/</id>
-    <published>2017-08-29T07:44:39.000Z</published>
-    <updated>2017-08-29T07:44:39.000Z</updated>
+    <title>2017년 10월</title>
+    <link href="http://yoursite.com/2017/10/08/simple-blog-1/"/>
+    <id>http://yoursite.com/2017/10/08/simple-blog-1/</id>
+    <published>2017-10-08T12:41:40.000Z</published>
+    <updated>2017-10-08T13:15:29.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<h4 id="10월의-주절거림-상시-업데이트"><a href="#10월의-주절거림-상시-업데이트" class="headerlink" title="10월의 주절거림 (상시 업데이트)"></a>10월의 주절거림 (상시 업데이트)</h4><a id="more"></a>
+<h4 id="2017-10-08"><a href="#2017-10-08" class="headerlink" title="2017/10/08"></a>2017/10/08</h4><ul>
+<li>간을 고치겠다고 약을 먹는 것보단 술을 끊는 것이 백 배 낫다. </li>
+<li><p>운동 안하고 빼겠다고 스트레스 받다가 다른 중독이 trigger 되어 폭식하는 것보단 꾸준한 자기 관리가 제일 좋은 것 같다.</p>
+</li>
+<li><p>사실 개발자든 뭐든간에 내면 깊이 누구보다 잘난, 대체불가능한 사람이 되고 싶은 욕망은 누구나 있다. 이 욕망은 사실 현실 속에서 자신이 그렇게 뛰어나지 않다는 것을 발견했을 때 고통으로 다가오기 마련이다. 중요한 것은 여기서 이 자존심의 스크래치를 어떻게 받아들이고 앞으로 나아갈 것인지에 대한 태도이다. </p>
+</li>
+<li>자본주의 사회에서 빠르게 앱을 개발해내고, 어느정도 유지 보수가 잘 되도록 만들어 주는 것은 개발자가 가장 갖춰야 할 능력이다. 그런데 이렇게 당연한 것에 대해서 떠드는건 솔직히 더 들을 필요도 없는 이야기고.</li>
+<li>이런 생태계에 있어서 멋지고 본받고 싶은 ‘사람’은 어찌보면 겸손하게 묵묵히 공부하고 이를 동료들에게 전파하는 사람이다. 남을 가르치려면 그만큼 잘 알아야하고, 모르는 사람을 가르치는 능력이야 말로 인간이 가진 가장 멋진 능력이라고 생각한다. <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" target="_blank" rel="external">Fun Fun Function</a></li>
+</ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h4 id=&quot;10월의-주절거림-상시-업데이트&quot;&gt;&lt;a href=&quot;#10월의-주절거림-상시-업데이트&quot; class=&quot;headerlink&quot; title=&quot;10월의 주절거림 (상시 업데이트)&quot;&gt;&lt;/a&gt;10월의 주절거림 (상시 업데이트)&lt;/h4&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>프론트엔드 면접을 위해 공부했던 것들.</title>
+    <link href="http://yoursite.com/2017/08/29/post1/"/>
+    <id>http://yoursite.com/2017/08/29/post1/</id>
+    <published>2017-08-29T08:03:00.000Z</published>
+    <updated>2017-10-08T13:15:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>최근 Frontend Developer 로 취업을 해볼까(?) 하고있다. -&gt; 안하기로 결정! (2017/9/30)<br>사실 상 계속해서 풀스택으로 일을 해왔고, 백엔드에 더 많은 공부 시간을 할애하긴 했지만, 회사에서 작은 부분을 집중해서 한다면 아무래도 프론트엔드가 더 재밌다고 느꼈기 때문이다.</p>
+<p>이번에 취업 인터뷰를 준비하면서 공부했던 내용들을 모아볼까 한다. 해외 취업도 노리기에 몇몇은 번역 없이 모아두려고 한다. 국내 기업 프론트엔드 지원할 분들에게도 도움이 되었으면 한다.</p>
+<a id="more"></a>
+<h2 id="공부에-앞서서"><a href="#공부에-앞서서" class="headerlink" title="공부에 앞서서."></a>공부에 앞서서.</h2><p>필자는 어떤 기술을 ‘왜’ 쓰는지, 기존 기술에 비해 어떤 면이 좋기 때문에 다음 기술을 사용하는지 그 이유를 알지 못하면 내용이 머릿속에 들어오지 않는다. 내가 면접관이라면 항상 그 ‘왜’ 를 물을 것이다. 그러니깐 나도 다음 존재하는 모든 질문에 대해 ‘그래서 왜 이걸 쓰는데?’에 집중하겠다.</p>
+<h2 id="컨셉-단어-이-정도는-알고있어야지"><a href="#컨셉-단어-이-정도는-알고있어야지" class="headerlink" title="컨셉, 단어. 이 정도는 알고있어야지"></a>컨셉, 단어. 이 정도는 알고있어야지</h2><h4 id="1-Value-vs-Reference"><a href="#1-Value-vs-Reference" class="headerlink" title="1) Value vs. Reference "></a>1) Value vs. Reference </h4><p>Understand how objects, arrays, and functions are copied and passed into functions. Know that the reference is what’s being copied. Understand that primitives are copied and passed by copying the value.</p>
+<h4 id="2-Scope"><a href="#2-Scope" class="headerlink" title="2) Scope "></a>2) Scope </h4><p>Understand the difference between global scope, function scope, and block scope. Understand which variables are available where. Know how the JavaScript engine performs variable lookup.</p>
+<h4 id="3-Hoisting"><a href="#3-Hoisting" class="headerlink" title="3) Hoisting "></a>3) Hoisting </h4><p>Understand that variable and function declarations are hoisted to the top of their available scope. Understand that function expressions are not hoisted.</p>
+<h4 id="4-Closures"><a href="#4-Closures" class="headerlink" title="4) Closures "></a>4) Closures </h4><p>Know that a function retains access to the scope that it was created in. Know what this lets us do, such as data hiding, memoization, and dynamic function generation.</p>
+<h4 id="5-this"><a href="#5-this" class="headerlink" title="5) this "></a>5) this </h4><p>Know the rules of this binding. Know how it works, know how to figure out what it will be equal to in a function, and know why it’s useful.</p>
+<h4 id="6-new"><a href="#6-new" class="headerlink" title="6) new "></a>6) new </h4><p>Know how it relates to object oriented programming. Know what happens to a function called with new. Understand how the object generated by using new inherits from the function’s prototype property.</p>
+<h4 id="7-apply-call-bind"><a href="#7-apply-call-bind" class="headerlink" title="7) apply, call, bind"></a>7) apply, call, bind</h4><p> Know how each of these functions work. Know how to use them. Know what they do to this.</p>
+<h4 id="8-Prototypes-amp-Inheritance"><a href="#8-Prototypes-amp-Inheritance" class="headerlink" title="8) Prototypes &amp; Inheritance "></a>8) Prototypes &amp; Inheritance </h4><p>Understand that inheritance in JavaScript works through the [[Prototype]] chain. Understand how to set up inheritance through functions and objects and how new helps us implement it. Know what the <strong>proto</strong> and prototype properties are and what they do.</p>
+<h4 id="9-Asynchronous-JS"><a href="#9-Asynchronous-JS" class="headerlink" title="9) Asynchronous JS "></a>9) Asynchronous JS </h4><p>Understand the event loop. Understand how the browser deals with user input, web requests, and events in general. Know how to recognize and correctly implement asynchronous code. Understand how JavaScript is both asynchronous and single-threaded.</p>
+<h4 id="10-Higher-Order-Functions"><a href="#10-Higher-Order-Functions" class="headerlink" title="10) Higher Order Functions "></a>10) Higher Order Functions </h4><p>개인적인 생각으로는 HOC 이 녀석이 함수형 프로그래밍에서는 제일 중요한 개념이라고 생각한다. 컴포넌트에 계속해서 어떤 기능을 추가해서 return 할 수 있다는 것이 얼마나 생산성 향상에 도움이 되는지는 redux code 나 기타 middleware 들을 분석해보면 알 것이다. 내가 면접관이라면 이쪽에 대해 질문을 많이 할듯.</p>
+<p>Understand that functions are first-class objects in JavaScript and what that means. Know that returning a function from another function is perfectly legal. Understand the techniques that closures and higher order functions allow us to use.</p>
+<hr>
+<blockquote>
+<p>마크다운 연습용으로 글을 쓰고 있었는데 나중에 더 추가해보려 한다. 내가 면접관이라면 물어볼 것들에 대해서 계속 적어볼까 한다.</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;최근 Frontend Developer 로 취업을 해볼까(?) 하고있다. -&amp;gt; 안하기로 결정! (2017/9/30)&lt;br&gt;사실 상 계속해서 풀스택으로 일을 해왔고, 백엔드에 더 많은 공부 시간을 할애하긴 했지만, 회사에서 작은 부분을 집중해서 한다면 아무래도 프론트엔드가 더 재밌다고 느꼈기 때문이다.&lt;/p&gt;
+&lt;p&gt;이번에 취업 인터뷰를 준비하면서 공부했던 내용들을 모아볼까 한다. 해외 취업도 노리기에 몇몇은 번역 없이 모아두려고 한다. 국내 기업 프론트엔드 지원할 분들에게도 도움이 되었으면 한다.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About me</title>
+    <link href="http://yoursite.com/2017/08/21/about-me/"/>
+    <id>http://yoursite.com/2017/08/21/about-me/</id>
+    <published>2017-08-21T08:03:00.000Z</published>
+    <updated>2017-10-08T13:16:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>안녕하세요 개발자 kosick 의 블로그입니다. </p>
+<p>주로 먹고사는 일은 ‘프로그래밍’을 통해 해결하고 이것저것 잡다한 것에 관심이 많습니다!</p>
+<p>이곳에 올라오는 글은 50%가 프로그래밍 관련이겠고요</p>
+<p>20%는 아마 여행?</p>
+<p>30%는 읽는 책과 취미 생활에 대한 이야기가 될 것 같습니다.</p>
+<p>만나서 반갑습니다!</p>
+<a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;안녕하세요 개발자 kosick 의 블로그입니다. &lt;/p&gt;
+&lt;p&gt;주로 먹고사는 일은 ‘프로그래밍’을 통해 해결하고 이것저것 잡다한 것에 관심이 많습니다!&lt;/p&gt;
+&lt;p&gt;이곳에 올라오는 글은 50%가 프로그래밍 관련이겠고요&lt;/p&gt;
+&lt;p&gt;20%는 아마 여행?&lt;/p&gt;
+&lt;p&gt;30%는 읽는 책과 취미 생활에 대한 이야기가 될 것 같습니다.&lt;/p&gt;
+&lt;p&gt;만나서 반갑습니다!&lt;/p&gt;
     
     </summary>
     
