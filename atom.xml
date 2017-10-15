@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-08T13:15:41.000Z</updated>
+  <updated>2017-10-15T12:19:04.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>개발자와 명상, 정신건강</title>
+    <link href="http://yoursite.com/2017/10/15/meditation/"/>
+    <id>http://yoursite.com/2017/10/15/meditation/</id>
+    <published>2017-10-15T12:10:46.000Z</published>
+    <updated>2017-10-15T12:19:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>요즘 친구의 추천으로 <a href="https://www.trevari.co.kr" target="_blank" rel="external">‘트레바리’</a> 라는 독서모임을 나가고 있다.<br>그 중 ‘마인드풀니스’ 라는 명상과 관련된 책에 대해 토론하는 모임에 참여하고 있는데, 내가 혼자서 공부했던 것들에 비해 너무나도 좋은 정보를 얻고 있다.<br>다음 링크는 개발자들이 흔히(?) 겪는 번아웃과 우울증에 대해 어떻게 이겨낼 것인지에 대해 꽤나 ‘마인드풀’한 방법을 제시한 비디오이다.</p>
+<p>개인적인 이야기는 시간이 날 때 썰을 풀어볼까 한다.</p>
+<p><a href="https://www.youtube.com/watch?v=i7kh8pNRWOo" target="_blank" rel="external">https://www.youtube.com/watch?v=i7kh8pNRWOo</a></p>
+<p><a href="https://www.reddit.com/r/Meditation/comments/760l4s/award_winning_game_designer_jonathan_blows/doao43c/" target="_blank" rel="external">요약</a></p>
+<div class="video-container"><iframe src="//www.youtube.com/embed/i7kh8pNRWOo" frameborder="0" allowfullscreen></iframe></div>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;요즘 친구의 추천으로 &lt;a href=&quot;https://www.trevari.co.kr&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;‘트레바리’&lt;/a&gt; 라는 독서모임을 나가고 있다.&lt;br&gt;그 중 ‘마인드풀니스’ 라는 명상과 관련된 책에 
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>중독</title>
@@ -51,17 +74,20 @@
     <link href="http://yoursite.com/2017/10/08/simple-blog-1/"/>
     <id>http://yoursite.com/2017/10/08/simple-blog-1/</id>
     <published>2017-10-08T12:41:40.000Z</published>
-    <updated>2017-10-08T13:15:29.000Z</updated>
+    <updated>2017-10-15T12:13:15.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="10월의-주절거림-상시-업데이트"><a href="#10월의-주절거림-상시-업데이트" class="headerlink" title="10월의 주절거림 (상시 업데이트)"></a>10월의 주절거림 (상시 업데이트)</h4><a id="more"></a>
 <h4 id="2017-10-08"><a href="#2017-10-08" class="headerlink" title="2017/10/08"></a>2017/10/08</h4><ul>
-<li>간을 고치겠다고 약을 먹는 것보단 술을 끊는 것이 백 배 낫다. </li>
+<li><p>간을 고치겠다고 약을 먹는 것보단 술을 끊는 것이 백 배 낫다. </p>
+</li>
 <li><p>운동 안하고 빼겠다고 스트레스 받다가 다른 중독이 trigger 되어 폭식하는 것보단 꾸준한 자기 관리가 제일 좋은 것 같다.</p>
 </li>
 <li><p>사실 개발자든 뭐든간에 내면 깊이 누구보다 잘난, 대체불가능한 사람이 되고 싶은 욕망은 누구나 있다. 이 욕망은 사실 현실 속에서 자신이 그렇게 뛰어나지 않다는 것을 발견했을 때 고통으로 다가오기 마련이다. 중요한 것은 여기서 이 자존심의 스크래치를 어떻게 받아들이고 앞으로 나아갈 것인지에 대한 태도이다. </p>
 </li>
-<li>자본주의 사회에서 빠르게 앱을 개발해내고, 어느정도 유지 보수가 잘 되도록 만들어 주는 것은 개발자가 가장 갖춰야 할 능력이다. 그런데 이렇게 당연한 것에 대해서 떠드는건 솔직히 더 들을 필요도 없는 이야기고.</li>
-<li>이런 생태계에 있어서 멋지고 본받고 싶은 ‘사람’은 어찌보면 겸손하게 묵묵히 공부하고 이를 동료들에게 전파하는 사람이다. 남을 가르치려면 그만큼 잘 알아야하고, 모르는 사람을 가르치는 능력이야 말로 인간이 가진 가장 멋진 능력이라고 생각한다. <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" target="_blank" rel="external">Fun Fun Function</a></li>
+<li><p>자본주의 사회에서 빠르게 앱을 개발해내고, 어느정도 유지 보수가 잘 되도록 만들어 주는 것은 개발자가 가장 갖춰야 할 능력이다. 그런데 이렇게 당연한 것에 대해서 떠드는건 솔직히 더 들을 필요도 없는 이야기고.</p>
+</li>
+<li><p>이런 생태계에 있어서 멋지고 본받고 싶은 ‘사람’은 어찌보면 겸손하게 묵묵히 공부하고 이를 동료들에게 전파하는 사람이다. 남을 가르치려면 그만큼 잘 알아야하고, 모르는 사람을 가르치는 능력이야 말로 인간이 가진 가장 멋진 능력이라고 생각한다. <a href="https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q" target="_blank" rel="external">Fun Fun Function</a></p>
+</li>
 </ul>
 ]]></content>
     
